@@ -1,0 +1,18 @@
+#alttb{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.tabela1{
+    border: 1px solid black;
+}
+
+.tabela2 table{
+    border: none;
+}
+.tabela2 table th,td{
+    border: none;
+}
+
+
+
+
